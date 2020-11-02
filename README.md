@@ -1,0 +1,2 @@
+# KinderHelper-Academy
+It is a visual simulator game that allows the teacher to encounter different student characters and choose responses to conflicts between the characters. This will allow teachers and teacher’s aides to practice and become more comfortable with their responses to student peer-to-peer conflicts, and understand how differing personalities and backgrounds of students can affect their responses to teacher mediations.
